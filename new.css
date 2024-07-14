@@ -1,0 +1,16 @@
+i{
+    color: crimson;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+h5{
+    color: aliceblue;
+}
+th,
+td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 8px;
+}
