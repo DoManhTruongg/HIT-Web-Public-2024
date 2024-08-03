@@ -1,16 +1,13 @@
-i{
-    color: crimson;
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 0px;
+    box-sizing: border-box;
 }
-table{
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-h5{
-    color: aliceblue;
-}
-th,
-td{
-    text-align: center;
-    border: 1px solid black;
-    padding: 8px;
-}
+.q {
+    
+
+    font-family: "Noto Serif Khitan Small Script", serif;
+    font-weight: 550;
+    font-style: normal;
+  }
